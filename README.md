@@ -6,13 +6,17 @@ This assignment covers the use of **Pandas** in Python for handling tabular data
 ---
 
 ## Directory  
-### Problem 1:  
+### Problem 1:
+* https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-3/blob/main/Lim_Pandas-P1.py 
 
-### Problem 2:  
+### Problem 2:
+* https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-3/blob/main/Lim_Pandas-P2.py 
 
-### Program Link:  
+### Program Link:
+* https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-3/blob/main/Lim_Pandas.ipynb  
 
 ### Download csv file:
+* https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-3/blob/main/cars.csv
 
 ---
 
